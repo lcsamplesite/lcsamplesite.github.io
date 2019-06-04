@@ -1,0 +1,14 @@
+body {
+	background-color: #F1EEEE;
+}
+
+h1 {color: #374035; font-size: 3em; font-weight: bold; font-family: Playfair Display;}
+h3 {color: #775295; font-size: 1.17em; font-weight: lighter; font-family: Montserrat;}
+
+p {
+}
+
+
+a {
+	color:#6B7EBE; text-decoration: underline; 
+}
