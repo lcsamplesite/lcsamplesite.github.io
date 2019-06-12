@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Playfair+Display&display=swap');
+
+
+body {
+	background-color: #F1EEEE;
+}
+
+h1 {
+	color: #374035; 
+	margin: .5em;
+	font-size: 48px; 
+	font-weight: bolder; 
+	font-family: 'Playfair Display', serif;
+}
+
+h3 {
+	color: #775295; 
+	margin: .5em;
+	font-size: 28px; 
+	font-weight: lighter; 
+	font-family: 'Playfair Display', serif;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	margin: 1.5em;
+	line-height: 1.2em;
+	font-size: 16px;
+}
+
+ul{
+	font-family: 'Montserrat', sans-serif;
+	margin: 2em;
+	line-height: 1.2em;
+	font-size: 16px;
+}
+
+a {
+	color:#6B7EBE; text-decoration: underline; 
+}
+/* mouse over link */
+a:hover {
+  color: #775295;
+
+#wrapper {background-color: #374035
+		  width: 960px;
+		  margin: 0 auto;
+			}
+
+#slogan {font-style: italic;
+}
+
+
+
+
