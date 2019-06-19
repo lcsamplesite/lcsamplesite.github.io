@@ -59,25 +59,32 @@ nav {
 }
 
 header {background-color: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 footer {
 	text-align: right;
-	padding: 1em 0;
+	border: 1px black solid;
+    padding: 20px;
 	background-color: #FF957E}
 
 section {
 	background-color: #FFE2B8
-	padding: 10px;
-	margin: .5em
+	border: 1px black solid;
+    padding: 20px;
 }
 
 aside {
 	background-color: #FFC675;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 article {
 	background-color: #E89C6C;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 .wrapper {
