@@ -45,12 +45,13 @@ ul{
 }
 
 a {	
-	color:#6B7EBE; 
+	color: white; 
 	text-decoration: none; 
 	background-color: #ff7900;
 	display: block;
-	padding: 10px;
-	width: 200px;
+	float: right;
+	padding: 20px;
+	width: 150px;
 }
 
 
@@ -60,7 +61,7 @@ nav {
 	font-weight: bold;
 	font-family: 'Montserrat', sans-serif;
 	background-color: #aaaaaa;
-	padding: 10px;
+	
 }
 
 header {background-color: #FFED74;
@@ -94,6 +95,7 @@ article {
 
 .wrapper {
 	background-color: #FFE2B8;
+	clear: both;
 }
 
 /* mouse over link */
@@ -106,7 +108,6 @@ a:hover {
 }
 
 
-
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
@@ -114,15 +115,19 @@ a:hover {
 }
 
 #left {
-    background-color: #E582A2;
+    background-color: violet;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 30%;
 }
 
 #right {
-    background-color: #E55B88;
+    background-color: pink;
     border: 1px black solid;
     padding: 20px;
+    float: right;   
+    width: 62%;
 }
 
 
