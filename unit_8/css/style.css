@@ -152,14 +152,9 @@ div {
 
 footer {
 	text-align: right;
-	border: 1px black solid;
     padding: 20px;
-	background-color: #FF957E;
 	clear: both;
 }
-
-
-
 
 
 @media only screen and (max-width: 800px) {
@@ -212,3 +207,4 @@ footer {
   }
 
 }
+
